@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**matheus6p/matheus6p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is **Matheus**. 
 
-Here are some ideas to get you started:
+## A computer science student and technology enthusiast. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤯"The cool thing about being a programmer: the computer does exactly what you tell it to do. The bad thing : the computer does exactly what you tell it to do."🤯
+
+ 📍 Living in Sorocaba, São Paulo.
+💻 
+
+Reach me out 👇
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-2f55a4?style=flat-square&labelColor=2f55a4&logo=facebook&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.facebook.com/matheus.paesdealmeida/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/matheus-henrique-paes-de-almeida-18565914a/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF40BF?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/matheushpa/) 
