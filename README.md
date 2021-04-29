@@ -4,7 +4,7 @@ Hi! My name is **Matheus**.
 
 ## A computer science student and technology enthusiast. 💻
 
-### 🤯"The cool thing about being a programmer: the computer does exactly what you tell it to do. The bad thing : the computer does exactly what you tell it to do."🤯
+### 🤯"The cool thing about being a programmer: the computer does exactly what you tell it to do. The bad thing: the computer does exactly what you tell it to do."🤯
 
  📍 Living in Sorocaba, São Paulo.
 💻 
